@@ -1,6 +1,6 @@
 # HinDialect 1.1
 
-Download: `curl --remote-name-all https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-4839{/HinDialect%201.1.zip`
+Download: `curl --remote-name-all https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-4839/HinDialect%201.1.zip`
 
 From [north-indian-dialect-modelling](https://github.com/niyatibafna/north-indian-dialect-modelling), by @niyatibafna.
 
